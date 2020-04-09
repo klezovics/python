@@ -125,5 +125,9 @@ lr=l+l1
 print(lr)
 """
 
+t=("apple","banana","cherry")
+ti=iter(t)
+
+print(next(ti))
 
 
