@@ -66,5 +66,5 @@ class NightSky:
 
 
 if __name__ == "__main__":
-    sky = NightSky(5,5,0.5)
+    sky = NightSky(20,20,0.3)
     print(sky)
